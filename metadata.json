@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Obrempong Kinetic Particles",
+  "description": "Real-time 3D particle system controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
