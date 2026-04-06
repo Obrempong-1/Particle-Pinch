@@ -1,4 +1,4 @@
-# ⭐ Kinetic Particles – AI-Driven Interactive Particle Universe
+#  Kinetic Particles – AI-Driven Interactive Particle Universe
 
 Kinetic Particles is a real-time 3D particle simulation that combines **hand-tracking**, **AI-generated visual themes**, and **React Three Fiber** to create an immersive interactive experience.  
 Control thousands of particles with intuitive gestures and instantly restyle the entire system using natural language.
@@ -7,9 +7,9 @@ This is a personally customized project — built and designed as your own inter
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎨 AI-Generated Themes
+### AI-Generated Themes
 Type creative prompts such as:
 
 - "matrix green rain"  
@@ -19,7 +19,7 @@ Type creative prompts such as:
 
 The AI converts your text into a complete particle configuration, including colors, shapes, speed, noise, and distribution.
 
-### ✋ Hand Tracking Interaction
+###  Hand Tracking Interaction
 Powered by MediaPipe Vision:
 
 - **Pinch** → Attract particles  
@@ -28,13 +28,13 @@ Powered by MediaPipe Vision:
 
 All camera processing happens **locally in your browser**.
 
-### 🌌 Advanced Particle Physics
+###  Advanced Particle Physics
 - 10,000+ instanced particles  
 - Noise fields & turbulence  
 - Adjustable size, speed, motion  
 - Optimized with React Three Fiber (R3F)
 
-### 📱 Modern UI
+###  Modern UI
 - Glassmorphism controls  
 - Prompt input with AI button  
 - Particle settings panel  
@@ -42,7 +42,7 @@ All camera processing happens **locally in your browser**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React 18  
 - Three.js + React Three Fiber  
@@ -53,7 +53,7 @@ All camera processing happens **locally in your browser**.
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - API key for AI theme generation  
